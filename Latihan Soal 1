@@ -1,0 +1,20 @@
+# No.1
+# Perintah : Diberikan bilangan positif n, lakukan:
+
+jika 1 < n < 9, cetak dalam huruf kecil angka yang diberikan (misal satu, dua, tiga, dst)
+jika n> 9, cetak Lebih dari 9
+Format Input
+
+Sebuah integer n
+
+Format Output
+
+Sesuai deskripsi soal
+
+Constraint
+
+1 < n < 109
+For example:
+
+Test	Input	Result
+tc01  1      satu
